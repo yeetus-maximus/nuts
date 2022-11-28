@@ -90,7 +90,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'CRM',
+					name: 'CAM',
 					link: 'https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html',
 				},
 				{
@@ -112,8 +112,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Discord',
+					link: 'https://discord.com',
 				},
 				{
 					name: 'Dribbble',
